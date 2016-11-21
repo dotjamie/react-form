@@ -17,5 +17,8 @@
     "react-dom": "^15.4.0",
     "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "react-bootstrap": "^0.30.6"
   }
 }
